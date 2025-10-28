@@ -10,8 +10,7 @@ Data Analyst with a Master’s in Analytics, leveraging advanced data science an
 * **Programming Languages:** Python, SQL, R
 * **Statistics:** Hypothesis Testing, Exploratory Data Analysis (EDA)
 * **Machine Learning:** Deep Learning (TensorFlow), Classification, Regression, Clustering
-* **Data Visualization:** Tableau, Power BI
-* **Cloud Platforms:** Familiarity with AWS
+* **Data Visualization:**  Power BI
 * **Databases:** MySQL, PostgreSQL, Microsoft SQL Server 
 
 ### Soft Skills
